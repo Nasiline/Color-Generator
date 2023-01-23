@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.color{
+    margin-top: 300px;
+    text-align: center;
+    
+
+}
+
+#hx {
+    display: block;
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 20px;
+}
+
+.color button {
+    background: none;
+    outline: none;
+    color: white;
+    border: 2px solid whitesmoke;
+    cursor: pointer;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif
+}
